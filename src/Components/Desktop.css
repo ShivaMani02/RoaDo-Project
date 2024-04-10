@@ -1,0 +1,3652 @@
+
+.Desktop_Desktop {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 32px;
+	box-sizing: border-box;
+	background: rgba(242,244,247,1.00);
+}
+.Desktop_Desktop .Content {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 1530px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 232px;
+	height: 1024px;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Footer {
+	position: absolute;
+	margin-left: -0.08203125px;
+	margin-right: 0.08203125px;
+	bottom: 0px;
+	width: 232px;
+	height: 44px;
+	display: flex;
+	padding-top: 12px;
+	padding-right: 20px;
+	padding-bottom: 12px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Footer .IconSettings {
+	position: relative;
+	flex: none;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Footer .IconSettings .Union {
+	position: absolute;
+	left: 1.875px;
+	top: 3.541351318359375px;
+	width: 16.25px;
+	height: 12.5px;
+}
+.Desktop_Desktop .Content .Sidebar .Footer .Iconlogout {
+	position: relative;
+	flex: none;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Footer .Iconlogout .Union_1 {
+	position: absolute;
+	left: 1.93115234375px;
+	top: 2.665374755859375px;
+	width: 16.250017166137695px;
+	height: 14.583333015441895px;
+}
+.Desktop_Desktop .Content .Sidebar .Footer .Iconglobe {
+	position: relative;
+	flex: none;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Footer .Iconglobe .Union_2 {
+	position: absolute;
+	left: 2.03076171875px;
+	top: 2.03094482421875px;
+	width: 15.937992095947266px;
+	height: 15.938117980957031px;
+}
+.Desktop_Desktop .Content .Sidebar .Branding {
+	position: absolute;
+	left: 20px;
+	top: 18px;
+	width: 99px;
+	height: 29.999998092651367px;
+}
+.Desktop_Desktop .Content .Sidebar .Branding .Logo {
+	position: absolute;
+	left: 0px;
+	top: 5.26092529296875px;
+	width: 99.19977569580078px;
+	height: 22.24854278564453px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 102px;
+	width: 232px;
+	height: 486px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 326px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Title {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+	width: 121px;
+	height: 20px;
+	display: flex;
+	padding-left: 20px;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Title .DASHBOARD {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 101px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+	height: 290px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 152px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-top: 12px;
+	padding-right: 20px;
+	padding-bottom: 12px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+	height: 22px;
+	align-self: stretch;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 102px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Frame1983 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 102px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Frame1983 .IconStats {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Frame1983 .IconStats .Vector {
+	position: absolute;
+	left: 2.5px;
+	top: 2.5px;
+	width: 75.00002384185791%;
+	height: 75.00002384185791%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Frame1983 .Dashboard {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 74px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Number {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Number .Ellipse1 {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+	background: rgba(40,40,40,1.00);
+	border-radius: 50%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Frame1941 .Number ._2 {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 8px;
+	height: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 10px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Iconchevronup {
+	position: absolute;
+	right: 0px;
+	top: 1px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Header .Iconchevronup .Vector_1 {
+	position: absolute;
+	left: 5.09765625px;
+	top: 7.5px;
+	width: 50%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Links_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+	height: 90px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-left: 28px;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Links_1 .Analytics {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 64px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Links_1 .Finance {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 54px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink .Links_1 .JobBoard {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 69px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 46px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 {
+	position: absolute;
+	left: 20px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 98px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Frame1983_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 98px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Frame1983_1 .Iconemail {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Frame1983_1 .Iconemail .Union_3 {
+	position: absolute;
+	left: 2.10400390625px;
+	top: 3.4557342529296875px;
+	width: 16.25006675720215px;
+	height: 12.916666030883789px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Frame1983_1 .Dashboard_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 70px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Number_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Number_1 .Ellipse1_1 {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+	background: rgba(40,40,40,1.00);
+	border-radius: 50%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Frame1941_1 .Number_1 ._2_1 {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 8px;
+	height: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 10px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Iconchevrondown {
+	position: absolute;
+	right: 18px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_1 .Iconchevrondown .Vector_2 {
+	position: absolute;
+	left: 5.22802734375px;
+	top: 7.5px;
+	width: 50%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 46px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 {
+	position: absolute;
+	left: 20px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 79px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Frame1983_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 79px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Frame1983_2 .Iconuser {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Frame1983_2 .Iconuser .Union_4 {
+	position: absolute;
+	left: 4.02880859375px;
+	top: 2.7086639404296875px;
+	width: 11.25px;
+	height: 15.330403327941895px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Frame1983_2 .Dashboard_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 51px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Number_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Number_2 .Ellipse1_2 {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+	background: rgba(40,40,40,1.00);
+	border-radius: 50%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Frame1941_2 .Number_2 ._2_2 {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 8px;
+	height: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 10px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Iconchevrondown_1 {
+	position: absolute;
+	right: 18px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_2 .Iconchevrondown_1 .Vector_3 {
+	position: absolute;
+	left: 5.22802734375px;
+	top: 7.5px;
+	width: 50%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 46px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 {
+	position: absolute;
+	left: 20px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 64px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Frame1983_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 64px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Frame1983_3 .Iconlayoutgrid {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Frame1983_3 .Iconlayoutgrid .Union_5 {
+	position: absolute;
+	left: 2.93505859375px;
+	top: 2.6653594970703125px;
+	width: 14.583333015441895px;
+	height: 14.583333015441895px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Frame1983_3 .Dashboard_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 36px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Number_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Number_3 .Ellipse1_3 {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+	background: rgba(40,40,40,1.00);
+	border-radius: 50%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Frame1941_3 .Number_3 ._2_3 {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 8px;
+	height: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 10px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Iconchevrondown_2 {
+	position: absolute;
+	right: 18px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section01 .Links .ElementsMenuLink_3 .Iconchevrondown_2 .Vector_4 {
+	position: absolute;
+	left: 5.22802734375px;
+	top: 7.5px;
+	width: 50%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 128px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Title_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+	width: 73px;
+	height: 20px;
+	display: flex;
+	padding-left: 20px;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Title_1 .PAGES {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 53px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 16px;
+	height: 92px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 46px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 {
+	position: absolute;
+	left: 20px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 109px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Frame1983_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 109px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Frame1983_4 .IconSupport {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Frame1983_4 .IconSupport .Vector_5 {
+	position: absolute;
+	left: 2.5px;
+	top: 2.5px;
+	width: 75%;
+	height: 75%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Frame1983_4 .Dashboard_4 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 81px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Number_4 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Number_4 .Ellipse1_4 {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+	background: rgba(40,40,40,1.00);
+	border-radius: 50%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Frame1941_4 .Number_4 ._2_4 {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 8px;
+	height: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 10px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Iconchevrondown_3 {
+	position: absolute;
+	right: 18px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_4 .Iconchevrondown_3 .Vector_6 {
+	position: absolute;
+	left: 5.22802734375px;
+	top: 7.5px;
+	width: 50%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 46px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 {
+	position: absolute;
+	left: 20px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 116px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Frame1983_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 116px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Frame1983_5 .IconFolder {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Frame1983_5 .IconFolder .Vector_7 {
+	position: absolute;
+	left: 2.5px;
+	top: 3.333333969116211px;
+	width: 75%;
+	height: 62.5%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Frame1983_5 .Dashboard_5 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 88px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Number_5 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Number_5 .Ellipse1_5 {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+	background: rgba(40,40,40,1.00);
+	border-radius: 50%;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Frame1941_5 .Number_5 ._2_5 {
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 8px;
+	height: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 10px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Iconchevrondown_4 {
+	position: absolute;
+	right: 18px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Sidebar .Menu .Section02 .Links_2 .ElementsMenuLink_5 .Iconchevrondown_4 .Vector_8 {
+	position: absolute;
+	left: 5.22802734375px;
+	top: 7.5px;
+	width: 50%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 1208px;
+	height: 1530px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 66px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items {
+	position: absolute;
+	right: 31px;
+	top: 53.03030303030303%;
+	transform: translate(0, -50%);
+	width: 208px;
+	height: 40px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 136px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .IconIndicator {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 23.999996185302734px;
+	height: 23.999996185302734px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .IconIndicator .IconNotification {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 23.999998092651367px;
+	height: 23.999998092651367px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .IconIndicator .IconNotification .Vector_9 {
+	position: absolute;
+	left: 3.9990234375px;
+	top: 3px;
+	width: 66.66666401757114%;
+	height: 74.99999801317834%;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .IconIndicator .Indicator {
+	position: absolute;
+	left: 19.71484375px;
+	top: -1.7138671875px;
+	width: 6.857141971588135px;
+	height: 6.857141971588135px;
+	background: rgba(226,85,99,1.00);
+	border-radius: 85.71427154541016px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .Iconcalendar {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 24px;
+	height: 24px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .Iconcalendar .Union_6 {
+	position: absolute;
+	left: 2.7822265625px;
+	top: 2.25px;
+	width: 17.5px;
+	height: 19.5px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .Iconlayoutgrid_1 {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 24px;
+	height: 24px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Icons .Iconlayoutgrid_1 .Union_7 {
+	position: absolute;
+	left: 3.5224609375px;
+	top: 3.197998046875px;
+	width: 17.5px;
+	height: 17.5px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Avatar {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 40px;
+	height: 40px;
+	border-radius: 38.66666793823242px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Avatar .ImagePlaceholder {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 40.000003814697266px;
+	height: 40.000003814697266px;
+	border-radius: 99.99999237060547px;
+	border: 1.4999998807907104px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Avatar .ImagePlaceholder .Pasteimage {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 66.66667175292969px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .Items .Avatar .Indicator_1 {
+	position: absolute;
+	right: 1px;
+	top: 31px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 66.66667175292969px;
+	border: 1.3333333730697632px solid rgba(255,255,255,1);
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput {
+	position: absolute;
+	left: 32px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 905px;
+	height: 46px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .FormElementsTitle {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 46px;
+	align-self: stretch;
+	display: flex;
+	padding-right: 16px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .IconInput {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 873px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .IconInput .Iconsearch {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .IconInput .Iconsearch .Union_8 {
+	position: absolute;
+	left: 2.88818359375px;
+	top: 2.97430419921875px;
+	width: 13.877077102661133px;
+	height: 13.87707805633545px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .IconInput .Youremail {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 100%;
+	height: 22px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .Iconarrowright {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .Iconarrowright .Vector_10 {
+	position: absolute;
+	left: 4.1669921875px;
+	top: 10px;
+	width: 58.33333015441895%;
+	height: 0%;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .Iconarrowright .Vector_11 {
+	position: absolute;
+	left: 10.8330078125px;
+	top: 10px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .ElementsTopBar .FormInput .Input .Iconarrowright .Vector_12 {
+	position: absolute;
+	left: 10.8330078125px;
+	top: 5px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 1432px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-right: 32px;
+	padding-left: 32px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 128px;
+	align-self: stretch;
+	background: rgba(40,40,40,1.00);
+	border-radius: 16px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Message {
+	position: absolute;
+	left: 36px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 286px;
+	height: 64px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Message .Unlockpremiumstats {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 284px;
+	height: 34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 34px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Message .Getupto10TBofstorageforalimitedtime {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	width: 286px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button {
+	position: absolute;
+	right: 36px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 143px;
+	height: 46px;
+	display: flex;
+	padding-top: 9px;
+	padding-right: 24px;
+	padding-bottom: 9px;
+	padding-left: 24px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 39px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Iconbolt {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Iconbolt .Vector_13 {
+	position: absolute;
+	left: 4.1669921875px;
+	top: 2.5px;
+	width: 58.33333015441895%;
+	height: 75%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Getstarted {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 65px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 28px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Iconarrowright_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 20px;
+	height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Iconarrowright_1 .Vector_14 {
+	position: absolute;
+	left: 4.1669921875px;
+	top: 10px;
+	width: 58.33333015441895%;
+	height: 0%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Iconarrowright_1 .Vector_15 {
+	position: absolute;
+	left: 10.8330078125px;
+	top: 10px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Banner .Button .Iconarrowright_1 .Vector_16 {
+	position: absolute;
+	left: 10.8330078125px;
+	top: 5px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 162px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 262px;
+	height: 162px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 122px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Header_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 66px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Header_1 .Revenue {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 26px;
+	align-self: stretch;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Header_1 ._56945 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 40px;
+	align-self: stretch;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 26px;
+	font-weight: 600;
+	line-height: 40px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 24px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 54px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(220,255,245,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 34px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 .Indicator_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 .IconTrendUp {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 .IconTrendUp .Vector_17 {
+	position: absolute;
+	left: 1.7490234375px;
+	top: 4.083251953125px;
+	width: 75%;
+	height: 41.66666439601353%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 .Hello {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 34px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(32,201,151,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 .Iconclose {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .Badge .Content_2 .Iconclose .Union_9 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .MetricCards .Content_1 .Info .From46 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 160px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 262px;
+	height: 162px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 122px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Header_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 66px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Header_2 .Users {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 26px;
+	align-self: stretch;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Header_2 ._768 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 40px;
+	align-self: stretch;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 26px;
+	font-weight: 600;
+	line-height: 40px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 24px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 52px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(255,224,227,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 32px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 .Indicator_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 .IconTrendUp_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 .IconTrendUp_1 .Vector_18 {
+	position: absolute;
+	left: 1.7490234375px;
+	top: 4.083251953125px;
+	width: 75%;
+	height: 41.66666439601353%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 .Hello_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 32px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(220,53,69,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 .Iconclose_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .Badge_1 .Content_4 .Iconclose_1 .Union_10 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle6 .Content_3 .Info_1 .From46_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 162px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 262px;
+	height: 162px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 122px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Header_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 66px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Header_3 .NewSignups {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 26px;
+	align-self: stretch;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Header_3 ._116 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 40px;
+	align-self: stretch;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 26px;
+	font-weight: 600;
+	line-height: 40px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 24px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 47px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(242,244,247,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 27px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 .Indicator_4 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 .IconTrendUp_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 .IconTrendUp_2 .Vector_19 {
+	position: absolute;
+	left: 1.7490234375px;
+	top: 4.083251953125px;
+	width: 75%;
+	height: 41.66666439601353%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 .Hello_2 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 27px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 .Iconclose_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .Badge_2 .Content_6 .Iconclose_2 .Union_11 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle7 .Content_5 .Info_2 .From46_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 160px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 262px;
+	height: 162px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 122px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Header_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 66px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Header_4 .Retention {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 26px;
+	align-self: stretch;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Header_4 ._1267 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 40px;
+	align-self: stretch;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 26px;
+	font-weight: 600;
+	line-height: 40px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 24px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 57px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(220,255,245,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 .Indicator_5 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 .IconTrendUp_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 .IconTrendUp_3 .Vector_20 {
+	position: absolute;
+	left: 1.7490234375px;
+	top: 4.083251953125px;
+	width: 75%;
+	height: 41.66666439601353%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 .Hello_3 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(32,201,151,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 .Iconclose_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .Badge_3 .Content_8 .Iconclose_3 .Union_12 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Metrics .TypeMetricStyleStyle8 .Content_7 .Info_3 .From46_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 157px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 458px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 24px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsCardHeader {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 62px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsCardHeader .Installedapps {
+	position: absolute;
+	left: 24px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 122px;
+	height: 30px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 30px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsCardHeader .IconDotsVertical {
+	position: absolute;
+	right: 24px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 24px;
+	height: 24px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsCardHeader .IconDotsVertical .Vector_21 {
+	position: absolute;
+	left: 11.0009765625px;
+	top: 3.9997024536132812px;
+	width: 8.333330849806469%;
+	height: 66.66666269302368%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 286px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-right: 24px;
+	padding-left: 24px;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 {
+	position: relative;
+	flex: none;
+	margin-bottom: 8px;
+	height: 286px;
+	align-self: stretch;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .YAxis {
+	position: absolute;
+	left: 0px;
+	width: 23px;
+	height: 260px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .YAxis ._400 {
+	position: relative;
+	flex: none;
+	width: 23px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .YAxis ._300 {
+	position: relative;
+	flex: none;
+	width: 23px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .YAxis ._200 {
+	position: relative;
+	flex: none;
+	width: 23px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .YAxis ._100 {
+	position: relative;
+	flex: none;
+	width: 21px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .YAxis ._0 {
+	position: relative;
+	flex: none;
+	width: 8px;
+	height: 20px;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis {
+	position: absolute;
+	margin-left: 53px;
+	margin-right: 0px;
+	bottom: 0px;
+	width: 1043px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._01 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._01_1 {
+	position: relative;
+	flex: none;
+	width: 25px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._01_2 {
+	position: relative;
+	flex: none;
+	width: 21px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._01_3 {
+	position: relative;
+	flex: none;
+	width: 26px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._01_4 {
+	position: relative;
+	flex: none;
+	width: 22px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._01_5 {
+	position: relative;
+	flex: none;
+	width: 15px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .XAxis ._6 {
+	position: relative;
+	flex: none;
+	width: 19px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(157,159,161,1.00);
+	mix-blend-mode: normal;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart {
+	position: absolute;
+	margin-left: 53px;
+	margin-right: 0px;
+	top: 0px;
+	width: 1043px;
+	height: 240px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart .Group2284 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 99.9998664855957%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart .Group2284 .Vector382 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 56.42659409576899%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart .Group2284 .Vector383 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart .Group2285 {
+	position: absolute;
+	left: 0px;
+	top: 79.6723403930664px;
+	width: 100%;
+	height: 66.80319468180339%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart .Group2285 .Vector381 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .Axis .Content_9 .ElementsLineChart .Group2285 .Vector380 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 67.83439390423779%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 22px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 86px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item .Color {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 12px;
+	height: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item .Text {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 66px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_1 {
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 86px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_1 .Color_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 12px;
+	height: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_1 .Text_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 66px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 67px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_2 .Color_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 12px;
+	height: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_2 .Text_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 47px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 32px;
+	width: 63px;
+	height: 22px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_3 .Color_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 12px;
+	height: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .ElementsChart2 .ElementsLegend .Item_3 .Text_3 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 43px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table {
+	position: relative;
+	flex: none;
+	margin-bottom: 32px;
+	height: 588px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 24px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsCardHeader_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 62px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsCardHeader_1 .Installedapps_1 {
+	position: absolute;
+	left: 24px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 122px;
+	height: 30px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 30px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsCardHeader_1 .IconDotsVertical_1 {
+	position: absolute;
+	right: 24px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 24px;
+	height: 24px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsCardHeader_1 .IconDotsVertical_1 .Vector_22 {
+	position: absolute;
+	left: 11.0009765625px;
+	top: 3.99969482421875px;
+	width: 8.333330849806469%;
+	height: 66.66666269302368%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 54px;
+	align-self: stretch;
+	display: flex;
+	padding-top: 16px;
+	padding-right: 24px;
+	padding-bottom: 16px;
+	padding-left: 24px;
+	box-sizing: border-box;
+	background: rgba(249,250,251,1.00);
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader .Source {
+	position: relative;
+	flex: none;
+	margin-right: 148px;
+	width: 47px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader .Amount {
+	position: relative;
+	flex: none;
+	margin-right: 148px;
+	width: 52px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader .Status {
+	position: relative;
+	flex: none;
+	margin-right: 148px;
+	width: 43px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader .UserID {
+	position: relative;
+	flex: none;
+	margin-right: 148px;
+	width: 49px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader .Joined {
+	position: relative;
+	flex: none;
+	margin-right: 148px;
+	width: 45px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ElementsTableHeader .Group {
+	position: relative;
+	flex: none;
+	margin-right: 148px;
+	width: 41px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 1144px;
+	height: 448px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows {
+	position: relative;
+	flex: none;
+	margin-bottom: 24px;
+	width: 1144px;
+	height: 380px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 76px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand {
+	position: absolute;
+	left: 24px;
+	top: 16px;
+	width: 107px;
+	height: 44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 44px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 9.428571701049805px;
+	border: 0px solid rgba(242.00000077486038,244.0000006556511,247.00000047683716,1);
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin {
+	position: absolute;
+	left: 9.3330078125px;
+	top: 11.99993896484375px;
+	width: 25.33331871032715px;
+	height: 19.999998092651367px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Path {
+	position: absolute;
+	left: 2.509765625px;
+	top: 13.79052734375px;
+	width: 18.10778232571937%;
+	height: 21.85778349473796%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Path_1 {
+	position: absolute;
+	left: 0px;
+	top: 9.67254638671875px;
+	width: 18.153487193715083%;
+	height: 22.98575143678202%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Path_2 {
+	position: absolute;
+	left: 3.6826171875px;
+	top: 2.9232177734375px;
+	width: 84.5817351436592%;
+	height: 54.33628600466594%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Path_3 {
+	position: absolute;
+	left: 3.904296875px;
+	top: 6.1409912109375px;
+	width: 84.58893287923351%;
+	height: 54.360866962515544%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Path_4 {
+	position: absolute;
+	left: 3.9052734375px;
+	top: 6.13995361328125px;
+	width: 84.11024581848079%;
+	height: 46.69404475155304%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Path_5 {
+	position: absolute;
+	left: 3.80078125px;
+	top: 4.45269775390625px;
+	width: 84.11437924612754%;
+	height: 46.688851994404985%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Group_1 {
+	position: absolute;
+	left: 8.2001953125px;
+	top: 0px;
+	width: 12.345687866210938px;
+	height: 19.999998092651367px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Group_1 .Shape {
+	position: absolute;
+	left: 0px;
+	top: 1.657958984375px;
+	width: 100.00001544951284%;
+	height: 83.5559638553585%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .BrandLogoBox .zeplin .Group_1 .Path_6 {
+	position: absolute;
+	left: 3.646484375px;
+	top: 0px;
+	width: 40.28434596650298%;
+	height: 100%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Brand .Zepplin {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 51px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow ._11434 {
+	position: absolute;
+	left: 219px;
+	top: 27px;
+	width: 47px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow ._11434_1 {
+	position: absolute;
+	left: 610px;
+	top: 27px;
+	width: 49px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow ._3monthsago {
+	position: absolute;
+	left: 807px;
+	top: 27px;
+	width: 54px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Design {
+	position: absolute;
+	left: 1000px;
+	top: 27px;
+	width: 46px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 {
+	position: absolute;
+	left: 419px;
+	top: 26px;
+	width: 57px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(220,255,245,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 .Indicator_6 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 .Iconclose_4 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 .Iconclose_4 .Union_13 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 .Hello_4 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(32,201,151,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 .Iconclose_5 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .ElementsTableRow .Badge_4 .Content_10 .Iconclose_5 .Union_14 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 76px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 {
+	position: absolute;
+	left: 24px;
+	top: 16px;
+	width: 98px;
+	height: 44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 44px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 9.428571701049805px;
+	border: 0px solid rgba(242.00000077486038,244.0000006556511,247.00000047683716,1);
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 .figma11 {
+	position: absolute;
+	left: 13.0625px;
+	top: 8.9375px;
+	width: 40.625%;
+	height: 60.9375%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 .figma11 .Path_7 {
+	position: absolute;
+	left: 0px;
+	top: 17.875px;
+	width: 50%;
+	height: 33.33333333333333%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 .figma11 .Path_8 {
+	position: absolute;
+	left: 0px;
+	top: 8.9375px;
+	width: 50%;
+	height: 33.33333333333333%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 .figma11 .Path_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 50%;
+	height: 33.33333333333333%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 .figma11 .Path_10 {
+	position: absolute;
+	left: 8.9375px;
+	top: 0px;
+	width: 50%;
+	height: 33.33333333333333%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .BrandLogoBox_1 .figma11 .Path_11 {
+	position: absolute;
+	left: 8.9375px;
+	top: 8.9375px;
+	width: 50%;
+	height: 33.33333333333333%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Brand_1 .Zepplin_1 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 42px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 ._11434_2 {
+	position: absolute;
+	left: 219px;
+	top: 27px;
+	width: 47px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 ._11434_3 {
+	position: absolute;
+	left: 610px;
+	top: 27px;
+	width: 43px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 ._3monthsago_1 {
+	position: absolute;
+	left: 807px;
+	top: 27px;
+	width: 33px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Design_1 {
+	position: absolute;
+	left: 1000px;
+	top: 27px;
+	width: 52px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 {
+	position: absolute;
+	left: 419px;
+	top: 26px;
+	width: 68px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,234,216,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 48px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 .Indicator_7 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(253,126,20,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 .Iconclose_6 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 .Iconclose_6 .Union_15 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 .Hello_5 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 48px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(253,126,20,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 .Iconclose_7 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow2 .Badge_5 .Content_11 .Iconclose_7 .Union_16 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 76px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 {
+	position: absolute;
+	left: 24px;
+	top: 16px;
+	width: 91px;
+	height: 44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 .BrandLogoBox_2 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 44px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 9.428571701049805px;
+	border: 0px solid rgba(242.00000077486038,244.0000006556511,247.00000047683716,1);
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 .BrandLogoBox_2 .meta1 {
+	position: absolute;
+	left: 8.25px;
+	top: 13.75px;
+	width: 60.9375%;
+	height: 40.625%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 .BrandLogoBox_2 .meta1 .Path_12 {
+	position: absolute;
+	left: 0px;
+	top: 0.00067138671875px;
+	width: 100%;
+	height: 99.99744975483502%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 .BrandLogoBox_2 .meta1 .Path_13 {
+	position: absolute;
+	left: 2.283203125px;
+	top: 0px;
+	width: 91.48341892482517%;
+	height: 99.99810065422858%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 .BrandLogoBox_2 .meta1 .Path_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 28.81156370078489%;
+	height: 87.90848205139586%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Brand_2 .Zepplin_2 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 35px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 ._11434_4 {
+	position: absolute;
+	left: 219px;
+	top: 27px;
+	width: 44px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 ._11434_5 {
+	position: absolute;
+	left: 610px;
+	top: 27px;
+	width: 44px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 ._3monthsago_2 {
+	position: absolute;
+	left: 807px;
+	top: 27px;
+	width: 42px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Design_2 {
+	position: absolute;
+	left: 1000px;
+	top: 27px;
+	width: 48px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 {
+	position: absolute;
+	left: 419px;
+	top: 26px;
+	width: 79px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(242,244,247,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 59px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 .Indicator_8 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(95,105,128,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 .Iconclose_8 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 .Iconclose_8 .Union_17 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 .Hello_6 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 59px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 .Iconclose_9 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow3 .Badge_6 .Content_12 .Iconclose_9 .Union_18 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 76px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 {
+	position: absolute;
+	left: 24px;
+	top: 16px;
+	width: 110px;
+	height: 44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 .BrandLogoBox_3 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 44px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 9.428571701049805px;
+	border: 0px solid rgba(242.00000077486038,244.0000006556511,247.00000047683716,1);
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 .BrandLogoBox_3 .angularicon11 {
+	position: absolute;
+	left: 10.112550735473633px;
+	top: 10.3125px;
+	width: 55.14193014665083%;
+	height: 58.58682285655629%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 .BrandLogoBox_3 .angularicon11 .Vector_23 {
+	position: absolute;
+	left: 0.085235595703125px;
+	top: 0.0660400390625px;
+	width: 99.60844340294192%;
+	height: 99.4279774730707%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 .BrandLogoBox_3 .angularicon11 .Vector_24 {
+	position: absolute;
+	left: 0.08556079864501953px;
+	top: 0.0660400390625px;
+	width: 50.465932539974226%;
+	height: 99.4279774730707%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 .BrandLogoBox_3 .angularicon11 .Vector_25 {
+	position: absolute;
+	left: 4.522127151489258px;
+	top: 3.0587158203125px;
+	width: 62.72186706964838%;
+	height: 64.30772547831694%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Brand_3 .Zepplin_3 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 54px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 ._11434_6 {
+	position: absolute;
+	left: 219px;
+	top: 27px;
+	width: 39px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 ._11434_7 {
+	position: absolute;
+	left: 610px;
+	top: 27px;
+	width: 39px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 ._3monthsago_3 {
+	position: absolute;
+	left: 807px;
+	top: 27px;
+	width: 59px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Design_3 {
+	position: absolute;
+	left: 1000px;
+	top: 27px;
+	width: 67px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 {
+	position: absolute;
+	left: 419px;
+	top: 26px;
+	width: 57px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(220,255,245,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 .Indicator_9 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 .Iconclose_10 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 .Iconclose_10 .Union_19 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 .Hello_7 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(32,201,151,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 .Iconclose_11 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow4 .Badge_7 .Content_13 .Iconclose_11 .Union_20 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 76px;
+	align-self: stretch;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(234.00000125169754,236.00000113248825,240.00000089406967,1);
+	box-sizing: border-box;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 {
+	position: absolute;
+	left: 24px;
+	top: 16px;
+	width: 83px;
+	height: 44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 .BrandLogoBox_4 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 44px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 9.428571701049805px;
+	border: 0px solid rgba(242.00000077486038,244.0000006556511,247.00000047683716,1);
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 .BrandLogoBox_4 .vue911 {
+	position: absolute;
+	left: 8.7197265625px;
+	top: 11.6875px;
+	width: 61.54458739540794%;
+	height: 53.12527743252841%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 .BrandLogoBox_4 .vue911 .Vector_26 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 99.99056877472748%;
+	height: 99.90949219015192%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 .BrandLogoBox_4 .vue911 .Vector_27 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 99.99056877472748%;
+	height: 99.90949219015192%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 .BrandLogoBox_4 .vue911 .Vector_28 {
+	position: absolute;
+	left: 5.34765625px;
+	top: 0px;
+	width: 60.24430747372129%;
+	height: 60.23528929860201%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Brand_4 .Zepplin_4 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 27px;
+	height: 22px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 ._11434_8 {
+	position: absolute;
+	left: 219px;
+	top: 27px;
+	width: 47px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 ._11434_9 {
+	position: absolute;
+	left: 610px;
+	top: 27px;
+	width: 43px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 ._3monthsago_4 {
+	position: absolute;
+	left: 807px;
+	top: 27px;
+	width: 54px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Design_4 {
+	position: absolute;
+	left: 1000px;
+	top: 27px;
+	width: 52px;
+	height: 22px;
+	color: rgba(95,105,128,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 {
+	position: absolute;
+	left: 419px;
+	top: 26px;
+	width: 57px;
+	height: 24px;
+	display: flex;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(220,255,245,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 .Indicator_10 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 8px;
+	height: 8px;
+	background: rgba(32,201,151,1.00);
+	border-radius: 100px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 .Iconclose_12 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 .Iconclose_12 .Union_21 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 .Hello_8 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 37px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(32,201,151,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 .Iconclose_13 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 14px;
+	height: 14px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .Rows .TableRow5 .Badge_8 .Content_14 .Iconclose_13 .Union_22 {
+	position: absolute;
+	left: 2.9384765625px;
+	top: 2.937744140625px;
+	width: 8.124999046325684px;
+	height: 8.124999046325684px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots {
+	position: relative;
+	flex: none;
+	margin-bottom: 24px;
+	width: 122.99999237060547px;
+	height: 43.999996185302734px;
+	display: flex;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowleft {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 31.999996185302734px;
+	height: 31.999996185302734px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowleft .Vector_29 {
+	position: absolute;
+	left: 6.6669921875px;
+	top: 16px;
+	width: 58.33333233992247%;
+	height: 0%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowleft .Vector_30 {
+	position: absolute;
+	left: 6.6669921875px;
+	top: 16px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowleft .Vector_31 {
+	position: absolute;
+	left: 6.6669921875px;
+	top: 8px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots ._115 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 35px;
+	height: 30px;
+	color: rgba(40,40,40,1.00);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowright_2 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 31.999996185302734px;
+	height: 31.999996185302734px;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowright_2 .Vector_32 {
+	position: absolute;
+	left: 6.6669921875px;
+	top: 16px;
+	width: 58.33333233992247%;
+	height: 0%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowright_2 .Vector_33 {
+	position: absolute;
+	left: 17.3330078125px;
+	top: 16px;
+	width: 25%;
+	height: 25%;
+}
+.Desktop_Desktop .Content .Body .Frame1985 .Table .ContentPagination .NavigationDots .Iconarrowright_2 .Vector_34 {
+	position: absolute;
+	left: 17.3330078125px;
+	top: 8px;
+	width: 25%;
+	height: 25%;
+}
